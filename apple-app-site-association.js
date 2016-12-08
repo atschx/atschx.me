@@ -1,0 +1,1 @@
+{"applinks":{"apps":[],"details":[{"appID":"87H2VH7WUN.com.youjia.uplus","paths":["/*"]},{"appID":"LDEBM42CG9.com.zhangyi.uplus","paths":["*"]}],"webcredentials":{"apps":["87H2VH7WUN.com.youjia.uplus","LDEBM42CG9.com.zhangyi.uplus"]}}}
